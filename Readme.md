@@ -1,2 +1,2 @@
-- Agung N. Pramudhita
+- Agung N. Pramudhita - [agungpramudhita](https://github.com/agungpramudhita)
 - Farid Angga Pribadi - [noobs07](https://github.com/noobs07)
