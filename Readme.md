@@ -1,1 +1,2 @@
-Agung N. Pramudhita
+-Agung N. Pramudhita
+-Vipkas Al hadid Firdaus - [vipkas](https://github.com/vipkas)
