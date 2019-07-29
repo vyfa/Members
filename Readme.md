@@ -1,2 +1,3 @@
--Agung N. Pramudhita
--Vipkas Al hadid Firdaus - [vipkas](https://github.com/vipkas)
+- Vipkas Al hadid Firdaus - [vipkas](https://github.com/vipkas)
+- Agung N. Pramudhita
+- Farid Angga Pribadi - [noobs07](https://github.com/noobs07)
